@@ -85,7 +85,7 @@ dependencies {
     kspTest("com.google.dagger:hilt-compiler:2.51.1")
 
     // system ui controller
-    implementation ("com.google.accompanist:accompanist-systemuicontroller:0.35.0-alpha")
+    implementation ("com.google.accompanist:accompanist-systemuicontroller:0.35.1-alpha")
 
     // Retrofit
     implementation ("com.squareup.retrofit2:retrofit:2.11.0")
